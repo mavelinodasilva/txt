@@ -1,2 +1,1 @@
-# txt
-Alguns txts válidos
+Alguns txts úteis
